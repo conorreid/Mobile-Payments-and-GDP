@@ -1,0 +1,41 @@
+Country,Year,Mobile Payment Users,GDP Growth
+Europe,2009,5.5,-4.507
+Europe,2010,10.4,2.025
+Europe,2011,18.2,1.616
+Europe,2012,26.7,-0.811
+Europe,2013,35.4,-0.455
+Europe,2014,44.6,0.881
+Europe,2015,54.1,1.453
+Europe,2016,64,1.65
+Asia/Pacific,2009,41.9,7.467
+Asia/Pacific,2010,55.3,9.556
+Asia/Pacific,2011,69.6,7.714
+Asia/Pacific,2012,85,6.78
+Asia/Pacific,2013,102.1,7.039
+Asia/Pacific,2014,120.8,6.799
+Asia/Pacific,2015,141.4,6.644
+Asia/Pacific,2016,163.6,6.419
+Middle East,2009,0.2,2.183
+Middle East,2010,0.5,4.828
+Middle East,2011,0.9,4.432
+Middle East,2012,1.5,4.839
+Middle East,2013,2.3,2.425
+Middle East,2014,3.4,2.613
+Middle East,2015,4.7,2.92
+Middle East,2016,6,3.821
+Africa,2009,16.6,4.034
+Africa,2010,32.4,6.679
+Africa,2011,45.5,5.007
+Africa,2012,57.8,4.222
+Africa,2013,69.7,5.164
+Africa,2014,80.5,4.982
+Africa,2015,91,4.502
+Africa,2016,101.3,5.103
+Latin America,2009,4,-1.285
+Latin America,2010,5.6,6.068
+Latin America,2011,7.1,4.888
+Latin America,2012,8.5,3.111
+Latin America,2013,10.5,2.923
+Latin America,2014,13.4,1.298
+Latin America,2015,17.3,0.863
+Latin America,2016,22.3,2.006
