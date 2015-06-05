@@ -1,0 +1,2 @@
+GDP Data from the IMF World Economic Outlook Database (https://www.imf.org/external/pubs/ft/weo/2015/01/weodata/download.aspx)
+Mobile Payment User Data from Statista (http://www.statista.com/statistics/279957/number-of-mobile-payment-users-by-region/)
